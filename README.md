@@ -5,8 +5,11 @@ This project is a Real-Time Weather Monitoring System that fetches weather data 
 # Features:
 
 -> Fetches real-time weather data for selected cities.
+
 -> Saves weather details such as average, max, and min temperatures, and dominant weather conditions.
+
 -> Provides visualizations for weather data trends.
+
 -> Threshold-based alert system for extreme temperatures.
 
 # Project Setup
