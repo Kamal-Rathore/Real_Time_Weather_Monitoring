@@ -1,18 +1,6 @@
-streamlit==1.25.0
-requests==2.31.0
-mysql-connector-python==8.1.0
-pandas==2.1.1
-seaborn==0.12.2
-matplotlib==3.8.0
-
-
-streamlit: For the front-end interface of your real-time weather monitoring system.
-requests: For making API requests to OpenWeatherMap to fetch weather data.
-mysql-connector-python: To connect to the MySQL database where the weather summaries are stored.
-pandas: For data manipulation and storage when generating visualizations.
-seaborn: For creating attractive and informative graphs.
-matplotlib: To support the graph plotting functions that work with Seaborn.
-
-
-If you are using your virtual environment, you can automatically generate this file by running:
-pip freeze > requirements.txt
+streamlit
+matplotlib
+mysql-connector-python
+pandas
+seaborn
+requests
